@@ -1,0 +1,12 @@
+b6ab6ee9643d385623547549ba2122f2 *DESCRIPTION
+a023e296b34fe59103042465e7336218 *NAMESPACE
+3d107e8e2697e4e3faf67807ef88335d *R/plot.rsm.R
+b6024bf7837e3e5b36a1cc99684bdc66 *R/rsm-internal.R
+7ee24729fbb3f55c0aa7fd0161be1d8b *R/rsm.R
+78d0db5d8362f769af3b84ffd1850ca4 *R/summary.rsm.R
+2dd6791d24764bfe848cafc3806095ca *data/Regions.rda
+37900b92006e1917d5073659e202a40b *man/Rambo-package.Rd
+f5d6f5380265d02fb1c58c0b50d08ffc *man/Regions.Rd
+0ea490f11bf64522deb3573d7a6840d4 *man/plot.rsm.Rd
+0b382041e0dbc529a7a7f610554297e2 *man/rsm.Rd
+e9fbf6eabe56d7101f5191f7edbb109d *man/summary.rsm.Rd

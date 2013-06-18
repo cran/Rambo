@@ -1,0 +1,4 @@
+export("rsm", "summary.rsm", "plot.rsm")
+importFrom("graphics", plot)
+importFrom("stats", rmultinom)
+importFrom("sna", gplot) 
