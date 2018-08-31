@@ -1,4 +1,9 @@
 export("rsm", "summary.rsm", "plot.rsm")
 importFrom("graphics", plot)
 importFrom("stats", rmultinom)
-importFrom("sna", gplot) 
+importFrom("sna", gplot)
+
+S3method(plot, rsm)
+S3method(summary, rsm)
+
+importFrom("graphics", "abline", "barplot", "par")
